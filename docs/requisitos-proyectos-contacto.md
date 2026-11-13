@@ -43,7 +43,7 @@ Criterios de aceptación:
 
 Rama prevista: `feature/contacto`. El acceso desde navegación se integra con el mismo cambio para que no apunte a una sección inexistente.
 
-Pendiente: correo público, canal preferido y número si se elige WhatsApp. No reutilizar datos de la cuenta como datos públicos sin confirmación.
+Confirmado: solo WhatsApp Business, +503 7470 2108. Se implementa un enlace directo con mensaje editable; no se añade correo.
 
 ## Secuencia de práctica
 
@@ -54,4 +54,4 @@ Pendiente: correo público, canal preferido y número si se elige WhatsApp. No r
 5. Abrir un pull request con requisito, implementación y comprobaciones.
 6. Revisar, integrar en `main` y publicar la entrega revisada.
 
-GitHub: el código y las ramas están preparados localmente. La creación remota de `mart503rtmt-png/portafolio-MR` fue rechazada por permisos de la integración; no se ha confirmado la subida.
+Repositorio creado por el usuario: `mart503rtmt-png/portafolio-MR`. El trabajo se organiza por ramas y pull requests.

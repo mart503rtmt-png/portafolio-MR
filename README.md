@@ -33,6 +33,7 @@ Español; estética oscura, editorial y tecnológica, con maximalismo controlado
 | Sobre mí | `feature/sobre-mi` |
 | Exploraciones: BioForce, Detector de microsismos, MiFeria y Servidor Ubuntu | `feature/exploraciones` |
 | Pie de página | `feature/footer` |
+| Contacto por WhatsApp Business | `feature/contacto` |
 
 `main` conserva la base estable. Todas las ramas comienzan desde la misma versión inicial; se actualizan con `main` antes de trabajar en ellas.
 
